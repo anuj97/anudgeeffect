@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 import Hero from './Hero';
 import Footer from './Footer';
 
-import 'bulma/css/bulma.css';
+// import 'bulma/css/bulma.css';
 import './../css/style.css';
 
 export default function App() {
