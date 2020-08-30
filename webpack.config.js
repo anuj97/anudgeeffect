@@ -8,7 +8,7 @@ module.exports = {
       port: 3000
    },
    output: {
-    path: __dirname + '/public',
+    path: path.resolve(__dirname, '..') + '/anuj97.github.io',
     filename: 'bundle.js'
   },
    module: {
